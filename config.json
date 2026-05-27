@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpalidate",
+        "uuid": 9142091,
+        "checksum": "upcksb"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
